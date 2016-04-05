@@ -20,3 +20,4 @@ Install it as a service
 
 	install-service.cmd
 
+Tested OK with Mysql 5.7
