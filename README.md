@@ -1,4 +1,5 @@
-# Mysql manual installation on Windows
+# WindowsMysqlManualInstallation
+Manually install Mysql on Windows from the zip archive
 
 Folder structure in c:\mysql
 	- app/
